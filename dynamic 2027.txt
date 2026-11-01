@@ -1,0 +1,2311 @@
+﻿a. Hydrologic cycle, water budgets, and the critical zone
+i. Components and associated fluxes of the hydrologic cycle
+Water basics
+What is water
+* H₂O → 2 H + 1 O
+* O more electronegative than H → unequal electron sharing → polar molecule
+* polarity → hydrogen bonding
+* hydrogen bonds → major water properties
+* water → excellent / universal solvent
+* dissolves many ionic + polar substances
+* hydrogen bonding → cohesion + adhesion
+* cohesion → water molecules attracted to each other
+* adhesion → water attracted to other surfaces
+* capillary action → cohesion + adhesion → upward movement through narrow spaces
+* surface tension → strong cohesion at air-water interface
+Ice vs. liquid water
+* solid water → H-bonded lattice → molecules held farther apart
+* ice density < liquid-water density
+* ice floats
+* floating ice → surface insulation → liquid water beneath remains available for aquatic organisms
+* ecological significance → aquatic organisms surviving beneath winter ice
+* example → lakes freezing from surface downward rather than completely solidifying
+Specific heat
+* specific heat of water ≈ 4.184 J/g°C
+* high specific heat → large energy input required for temperature change
+* hydrogen bonding → energy absorbed before temperature rises substantially
+* water → temperature moderator
+* lakes/oceans → reduced temperature extremes
+* climate regulation
+* weather regulation
+* coastal climates → smaller temperature extremes than interiors
+* example → Chicago temperatures moderated somewhat by Lake Michigan
+Phase changes
+* evaporation → liquid → gas
+* condensation → gas → liquid
+* freezing → liquid → solid
+* melting → solid → liquid
+* sublimation → solid → gas
+* deposition → gas → solid
+* latent heat → energy absorbed/released during phase change without temperature change
+* evaporation → energy absorption → cooling
+* condensation → energy release → warming atmosphere
+Freshwater
+Freshwater distribution
+* freshwater → low dissolved-salt concentration
+* Earth water:
+   * ≈97.5% → saline
+   * ≈2.5% → freshwater
+* freshwater distribution:
+   * ≈68% → glaciers + ice caps
+   * ≈30% → groundwater
+   * very small fraction → lakes + rivers + wetlands + atmosphere + soil
+* most freshwater → inaccessible for immediate human use
+* accessible freshwater → highly limited
+* constraints:
+   * population
+   * competition
+   * pollution
+   * geographic distribution
+   * seasonal availability
+Salinity terminology
+* salinity → dissolved salts
+* freshwater → very low salinity
+* brackish → freshwater + seawater mixture → intermediate salinity
+* saline → high dissolved-salt concentration
+* briny / brine → extremely saline water
+* terminology thresholds → variable by source
+* freshwater commonly → <0.5 ppt
+* SciOly/wiki definition → freshwater <0.2% dissolved salts
+* original classification:
+   * briny → 50+ ppt
+   * saline → ~30 ppt
+   * brackish → ~0.5 ppt
+   * freshwater → ~0 ppt
+* key concept → salinity gradient rather than memorizing only one universal cutoff
+Water cycle
+  
+
+Reservoirs
+* reservoir → location where water is stored
+* ocean
+* glaciers
+* ice caps
+* groundwater
+* lakes
+* rivers
+* wetlands
+* soil moisture
+* atmosphere
+* biosphere / organisms
+Fluxes
+* flux → movement of water between reservoirs
+* precipitation
+* evaporation
+* transpiration
+* evapotranspiration
+* infiltration
+* percolation
+* runoff
+* condensation
+* sublimation
+* deposition
+* melting
+* freezing
+Major flux definitions
+* precipitation → atmospheric water → Earth's surface
+* evaporation → liquid water → water vapor
+* transpiration → water vapor released from plants through leaves/stems/flowers
+* evapotranspiration → evaporation + transpiration
+* infiltration → water entering soil from surface
+* percolation → downward movement through soil/rock
+* runoff → water flowing over land surface toward channels/lakes/oceans
+* condensation → water vapor → liquid
+* sublimation → ice/snow → vapor
+* deposition → vapor → ice
+* melting → ice → liquid
+* freezing → liquid → ice
+Water budgets
+  
+
+Definition
+* water budget → accounting of all water entering + leaving a reservoir/system
+* determines change in storage
+* inputs → precipitation, inflow, groundwater recharge, etc.
+* outputs → evaporation, transpiration, runoff, outflow, groundwater discharge, etc.
+Basic equation
+* Water inflow − water outflow = change in stored water
+* ΔS = inputs − outputs
+* ΔS > 0 → storage increase
+* ΔS < 0 → storage decrease
+* ΔS = 0 → steady state
+Lake water budget
+* ΔStorage = precipitation + surface inflow + groundwater inflow − evaporation − surface outflow − groundwater outflow
+* example → Great Lakes
+   * precipitation + tributary inflow + groundwater input
+   * evaporation + St. Lawrence River outflow + groundwater loss
+Watershed water budget
+* precipitation → main input
+* evapotranspiration → major output
+* runoff → streamflow output
+* infiltration → soil/groundwater storage
+* groundwater discharge → stream/lake/ocean input
+Residence time
+  
+
+Definition
+* residence time → average time water molecule remains in reservoir
+* long residence time → large reservoir and/or slow turnover
+* short residence time → small reservoir and/or rapid turnover
+Equation
+* Residence time = reservoir storage / rate of outflow
+* τ = S / F
+Steady-state assumption
+* same average inflow + outflow
+* reservoir size approximately constant
+* residence-time calculation → usually steady-state approximation
+Examples
+  
+
+Critical zone
+  
+
+Definition
+* critical zone → Earth's near-surface environment extending from vegetation canopy → groundwater
+* interactions:
+   * atmosphere
+   * soil
+   * rock
+   * groundwater
+   * surface water
+   * organisms
+Major processes
+* weathering
+* soil formation
+* infiltration
+* groundwater recharge
+* plant uptake
+* evapotranspiration
+* runoff
+* erosion
+* nutrient cycling
+  
+
+Key terms
+* weathering → breakdown of material
+* erosion → transportation of material
+* deposition → placement of transported material
+* important distinction:
+   * weathering ≠ erosion
+   * erosion = movement
+   * deposition = settling
+Real-world example
+* Appalachian watershed → rainfall → soil infiltration → groundwater → spring → stream → erosion → sediment deposition downstream
+b. Climatic controls on freshwater distribution
+i. Precipitation and atmospheric inputs to freshwater systems
+Precipitation
+* main atmospheric input to freshwater systems
+* rain
+* snow
+* sleet
+* freezing rain
+* hail
+Precipitation formation
+* evaporation
+* rising moist air
+* cooling
+* condensation
+* cloud formation
+* droplet/ice-crystal growth
+* precipitation
+Rain
+* primary freshwater precipitation form in many regions
+* direct replenishment:
+   * streams
+   * lakes
+   * soil moisture
+   * groundwater through infiltration
+Snow
+* freshwater storage reservoir
+* temporary cryospheric storage
+* gradual release during melting
+* seasonal water availability
+* rapid snowmelt → increased runoff → flood potential
+* example → Rocky Mountain snowpack → summer streamflow in western U.S.
+Seasonality
+* precipitation amount varies through year
+* wet season
+* dry season
+* high seasonality → large wet/dry difference
+* low seasonality → smaller wet/dry difference
+* timing → region dependent
+  
+
+Intensity
+* precipitation intensity → rate of precipitation
+* Intensity = precipitation depth / time
+* high intensity → more water reaching surface rapidly
+* infiltration capacity exceeded → increased runoff
+* erosion potential ↑
+* flooding potential ↑
+* example → intense summer thunderstorm → urban flash flooding  
+
+
+  
+
+Spatial distribution
+   * where precipitation occurs geographically
+   * controls:
+   * latitude
+   * atmospheric circulation
+   * topography
+   * distance from water
+   * elevation
+   * prevailing winds
+   * seasonality
+Global pattern
+   * tropics → high precipitation
+   * strong solar heating → high evaporation
+   * rising moist air → condensation → precipitation
+   * subtropical zones → often drier
+   * polar regions → low precipitation despite abundant ice
+  
+
+ii. Topographic and geographic controls on precipitation and climate
+Orographic lift
+   * moist air + mountain barrier
+   * air forced upward
+   * elevation ↑
+   * pressure ↓
+   * air expands
+   * adiabatic cooling
+   * saturation → condensation
+   * precipitation → windward slope
+   * descending air → warming + drying
+   * leeward side → rain shadow
+  
+
+Adiabatic cooling
+   * cooling due to pressure/elevation changes
+   * no direct external heat transfer required
+Diabatic cooling
+   * cooling through direct heat exchange with surroundings
+Rain shadow
+   * windward side → wet
+   * mountain crest → precipitation
+   * leeward side → dry
+   * example → Sierra Nevada → wet western slopes + Great Basin rain shadow
+   * example → Cascades → western Washington wet, eastern Washington drier
+Continentality
+   * large continental interiors → far from major moisture sources
+   * less atmospheric moisture
+   * lower precipitation
+   * greater seasonal temperature extremes
+   * example → Gobi Desert
+   * example → central Asia
+Lake effect
+   * cold dry air passes over relatively warmer lake
+   * evaporation from lake → moisture added to atmosphere
+   * moist air rises/cools
+   * condensation → precipitation
+   * strongest downwind
+   * Great Lakes → lake-effect snow
+  
+
+Lake Michigan example
+   * prevailing winds from west/northwest
+   * moisture uptake over Lake Michigan
+   * enhanced snow downwind → eastern/southeastern lake shore
+   * Chicago region → lake-effect snow potential under favorable wind setups
+Elevation
+   * elevation ↑ → generally temperature ↓
+   * temperature change → precipitation type + atmospheric moisture effects
+   * high elevation → snowpack accumulation
+   * snowpack → delayed water release
+iii. Arid-semiarid-humid spectrum
+Arid
+   * very low precipitation
+   * evaporation often exceeds precipitation
+   * sparse vegetation
+   * desert environments
+   * ephemeral streams
+   * playas
+   * evaporite deposits
+   * example → Mojave Desert
+Semiarid
+   * intermediate precipitation
+   * grasslands/shrubs
+   * intermittent streams common
+   * seasonal water availability
+   * example → Great Plains
+Humid
+   * high precipitation
+   * precipitation often supports dense vegetation
+   * perennial streams common
+   * forests common
+   * example → eastern United States
+  
+
+Stream-flow expression
+   * humid → perennial
+   * semiarid → intermittent
+   * arid → ephemeral
+Perennial
+   * flow year-round under normal conditions
+   * sustained groundwater + precipitation contributions
+   * example → Mississippi River
+Intermittent
+   * flow during portions of year
+   * seasonal groundwater/precipitation contribution
+   * example → seasonal streams in semiarid western U.S.
+Ephemeral
+   * flow only after precipitation/runoff events
+   * dry channel between events
+   * example → desert washes in Arizona
+Playas
+   * dry lake beds
+   * flat basin
+   * intermittent water accumulation
+   * arid/semiarid environments
+   * temporary lake → evaporation → dry surface
+   * example → Bonneville Salt Flats region / Great Salt Lake basin
+Evaporite deposits
+   * dissolved ions left behind after evaporation
+   * salts
+   * gypsum
+   * calcite
+   * halite
+   * crust formation
+   * potential economic resources
+c. Drainage basins and stream networks
+i. Watersheds, drainage divides, and drainage basin characteristics
+Watershed / drainage basin
+   * watershed → area draining toward common outlet
+   * drainage basin → land area contributing water to stream system
+   * runoff from any point → common drainage network
+   * mouth → final outlet
+   * possible outlet:
+   * ocean
+   * lake
+   * larger river
+  
+
+Drainage divide
+   * high topographic boundary separating drainage basins
+   * ridge
+   * mountain crest
+   * water on opposite sides → different drainage basins
+Sub-basins
+   * smaller drainage basin within larger watershed
+   * tributary watershed
+   * example → Missouri River basin within Mississippi River basin
+Basin characteristics
+   * basin area
+   * basin shape
+   * relief
+   * slope
+   * drainage density
+   * geology
+   * soil
+   * vegetation
+   * land use
+   * precipitation
+   * stream network structure
+Watershed applications
+   * pollutant transport
+   * flood prediction
+   * water-resource management
+   * groundwater-surface water interactions
+   * sediment transport
+   * ecosystem management
+Real-world example
+   * Mississippi River watershed → agricultural runoff → nutrient transport → Gulf of Mexico hypoxia
+ii. Stream order and networks
+Stream
+   * general term → moving water
+   * any size
+   * creek
+   * brook
+   * river
+   * channel
+Stream components
+Headwaters
+   * source region
+   * high elevation
+   * snowmelt
+   * springs
+   * small tributaries
+   * mountain runoff
+Tributary
+   * smaller stream flowing into larger stream
+Confluence
+   * point where streams meet
+Mouth
+   * stream endpoint
+   * ocean/lake/larger river
+  Strahler stream order
+   * first-order → smallest unbranched stream
+   * 1 + 1 → 2
+   * 2 + 2 → 3
+   * different orders meet → higher order retained
+   * 2 + 1 → 2
+   * main river near mouth → highest order
+Shreve stream magnitude
+   * smallest tributary → magnitude 1
+   * magnitudes add at confluences
+   * 1 + 2 → 3
+   * 2 + 2 → 4
+   * every upstream tributary contributes magnitude
+   * unlike Strahler → no requirement for paired equal orders
+Classic / Gravelius ordering
+   * largest/main channel → greatest significance
+   * numbering from mouth toward headwaters
+   * less commonly used than Strahler in modern stream-order questions
+iii. Drainage patterns, density, and texture
+Dendritic
+   * tree-like branching
+   * homogeneous bedrock
+   * similar erosion resistance
+   * random tributary placement
+   * tributaries → acute angles
+   * example → areas of horizontally uniform sedimentary rock
+Parallel
+   * nearly parallel streams
+   * pronounced slope
+   * elongated landforms
+   * resistant rock bands
+   * example → steep mountain slopes
+Trellis
+   * main parallel streams
+   * short tributaries joining near right angles
+   * folded topography
+   * alternating resistant/weak rock
+   * example → Appalachian Mountains
+Rectangular
+   * right-angle bends
+   * faults
+   * joints/fractures
+   * streams following weaknesses
+   * example → regions with strongly jointed/faulted bedrock
+Radial
+   * streams flow outward from central high point
+   * volcanic cone
+   * dome
+   * mountain
+   * example → Mount Shasta
+Centripetal
+   * streams flow inward
+   * central depression
+   * basin
+   * lake/playa
+   * example → Great Basin closed drainage areas
+Deranged / contorted
+   * disrupted pre-existing drainage pattern
+   * irregular streams
+   * lakes/wetlands
+   * poor organization
+   * glacial modification
+   * example → Canadian Shield / Great Lakes region
+  
+
+Drainage density
+   * total channel length / drainage basin area
+   * Drainage density = Σ channel length / basin area
+   * high drainage density:
+   * impermeable rock
+   * low infiltration
+   * high runoff
+   * steep slopes
+   * sparse vegetation
+   * low drainage density:
+   * permeable rock
+   * high infiltration
+   * dense vegetation
+   * gentle slopes
+      
+
+Drainage texture
+   * relative spacing/density of drainage channels
+   * fine drainage texture → many closely spaced channels
+   * coarse drainage texture → widely spaced channels
+
+
+   * controls:
+   * permeability
+   * relief
+   * precipitation
+   * vegetation
+   * rock type
+
+
+  
+
+d. Fluvial sediment processes and channel form
+i. Channel types and planform
+Planform
+   * channel geometry viewed from above
+   * straight
+   * meandering
+   * braided
+   * anastomosing
+Straight channels
+   * relatively low sinuosity
+   * uncommon as truly straight natural channels over long distances
+   * steep slopes / structural controls
+   * resistant banks
+   * artificial channelization → straightening
+   * example → engineered urban river channels
+Meandering channels
+   * curving channel
+   * broad floodplain
+   * relatively low gradient
+   * high sinuosity
+   * erosion outer bend
+   * deposition inner bend
+   * common in mature/low-gradient systems
+   * example → Mississippi River
+Braided channels
+   * multiple interwoven channels
+   * wide
+   * shallow
+   * high sediment supply
+   * sediment bars
+   * channels divide + rejoin
+   * unstable bars
+   * sediment-rich rivers
+   * steep-to-shallow gradient transition
+   * glacial meltwater rivers
+   * example → Platte River
+   * example → braided rivers downstream of glaciers in Alaska
+Anastomosing channels
+   * multiple channels
+   * divide + reconnect
+   * relatively stable channels
+   * vegetated/permanent islands
+   * cohesive banks
+   * lower channel mobility than braided systems
+   * example → Saskatchewan River system
+  
+
+Sinuosity
+   * measure of channel curvature
+Sinuosity = channel length / straight-line valley length
+   * straight → <1.1
+   * sinuous → ~1.1–1.5
+   * meandering → >1.5
+   * higher sinuosity → more curvy
+   * lower sinuosity → straighter
+  
+
+ii. Sediment properties
+Grain size  
+   * particle diameter
+   * Wentworth scale
+   * clay
+   * silt
+   * sand
+   * gravel
+   * cobble
+   * pebble
+   * Boulder
+
+
+Transport relationship
+   * smaller particles → generally easier to suspend
+   * larger particles → greater flow competence required
+   * clay → cohesive → surprisingly high erosion threshold
+   * sand → relatively easy to entrain once moving
+   * gravel → high competence requirement
+Grain shape
+   * particle geometry
+   * elongation
+   * flatness
+   * overall form
+Sphericity
+   * how closely grain shape approaches sphere
+   * high sphericity → dimensions more similar
+   * low sphericity → elongated/flattened/irregular
+Grain rounding
+   * angular
+   * subangular
+   * subrounded
+   * rounded
+   * very rounded
+   * abrasion + collisions + transport distance → generally increased rounding
+   * not always direct indicator of transport distance
+   * source geology also important
+  
+
+Sorting
+   * similarity of grain sizes
+   * well sorted → similar grain sizes
+   * poorly sorted → wide size range
+   * transport/deposition conditions → sorting
+   * high-energy environments → may remove finer particles
+   * glacial deposits → commonly poorly sorted
+Downstream trends
+   * headwaters → larger, angular, poorly sorted material
+   * downstream → generally smaller
+   * more rounded
+   * often more spherical
+   * potentially better sorted
+   * abrasion + selective transport
+   * smaller grains → remain suspended/transport farther
+iii. Sediment transport and deposition
+Sediment loads
+  
+
+Bed load
+   * sediment moving near/on channel bed
+   * traction
+   * saltation
+Traction
+   * Rolling, sliding
+   * large grains
+   * coarse gravel/cobbles
+Saltation
+   * bouncing/jumping
+   * sand-sized grains commonly
+   * intermittent contact with bed
+Suspended load
+   * fine particles carried within water column
+   * silt
+   * clay
+   * turbulence keeps particles aloft
+Dissolved load
+   * ions dissolved in water
+   * invisible sediment
+   * salts
+   * bicarbonate
+   * calcium
+   * Silica
+Competence
+   * maximum particle size stream can transport
+   * controlled primarily by flow velocity
+   * competence ↑ → faster flow
+   * example → floodwater moving cobbles/boulders
+
+
+
+
+  
+
+Capacity
+   * total amount of sediment stream can transport
+   * discharge ↑ → capacity ↑
+   * velocity ↑ → capacity ↑
+   * competence → size
+   * capacity → quantity
+Sediment supply
+   * amount of sediment available for transport
+   * high supply → sediment-rich system
+   * low supply → transport-limited system
+Supply vs. transport limitation
+   * supply-limited → abundant transport capacity, insufficient sediment
+   * transport-limited → abundant sediment, insufficient capacity
+   * steep/high-energy streams → potentially transport large grains
+   * low-gradient streams → more deposition
+Controls
+   * discharge
+   * velocity
+   * gradient
+   * channel geometry
+   * grain size
+   * grain shape
+   * roughness
+   * sediment supply
+   * vegetation
+   * bank cohesion  
+Hjulström diagram
+      * x-axis → sediment diameter
+      * y-axis → flow velocity
+      * erosion threshold
+      * transportation zone
+      * deposition zone
+      * clay → high erosion threshold due cohesion
+      * sand → relatively low erosion threshold
+      * coarse gravel → high velocity needed for entrainment
+      * deposition → velocity decreases
+iv. Fluvial bedforms
+  Ripples
+      * small sediment undulations
+      * initial bump
+      * water flow over bump
+      * erosion on stoss side
+      * deposition on lee side
+      * downstream migration
+      * cross-bedding development
+      * sand-sized sediment common
+Dunes
+      * larger than ripples
+      * asymmetric
+      * gradual stoss slope
+      * steep lee slope
+      * downstream migration
+      * cross-bedding
+      * higher flow conditions than ripples
+Antidunes
+      * high-flow regime
+      * more symmetrical
+      * sediment movement associated with standing-wave conditions
+      * migration potentially upstream
+      * faster flow than ordinary dunes
+      * opposite migration direction
+      * characteristic of upper-flow-regime conditions
+  
+  
+
+Bars
+      * sediment accumulation
+      * flow velocity decrease → deposition  
+
+
+Mid-channel bars
+         * sediment accumulation within channel
+         * common braided systems
+         * temporary/unstable
+Mouth bars
+         * river enters lake/ocean
+         * flow velocity drops
+         * sediment deposition
+         * delta development
+Point bars
+         * inside meander bend
+         * lower velocity
+         * deposition
+         * coarse material near active channel
+         * finer sediment farther onto floodplain
+e. Fluvial geomorphology — landforms and valley processes
+i. Longitudinal profile, gradient, and base level
+  
+
+Longitudinal profile
+         * elevation vs. distance downstream
+         * headwaters → high elevation
+         * mouth → low elevation
+         * generally concave-upward
+         * steep upstream
+         * gentle downstream
+Stream gradient
+         * change in elevation / horizontal distance
+         * Gradient = Δelevation / Δdistance
+         * steep gradient → high potential energy
+         * fast flow
+         * greater erosive ability
+         * low gradient → slower flow
+         * greater deposition potential
+Base level
+         * lowest level toward which stream erosion can operate
+         * ultimate base level → sea level
+         * local base level → lower limit imposed by local conditions
+  
+
+Ultimate base level
+         * ocean/sea level
+         * example → Mississippi River → Gulf of Mexico
+Local base level
+         * lake
+         * resistant rock layer
+         * larger river
+         * dam
+         * other obstruction
+         * waterfall region
+         * example → reservoir behind a dam
+  
+
+Stair-step longitudinal profile
+         * local base levels → knickpoints
+         * waterfalls
+         * lakes
+         * dams
+         * tributary junctions
+         * downstream adjustment → erosion/deposition
+ii. Dynamic equilibrium and graded streams
+Dynamic equilibrium
+         * balance between:
+         * erosion
+         * sediment transport
+         * deposition
+         * stream adjusts toward stable long-term profile
+         * changes in:
+         * discharge
+         * sediment load
+         * gradient
+         * base level
+         * sediment size
+         * channel geometry
+         * → channel adjustment
+Graded stream
+         * idealized dynamic equilibrium
+         * sediment transport + deposition + erosion balanced
+         * smooth concave longitudinal profile
+         * no major net aggradation/degradation over long term
+Base-level change
+Sea-level fall
+         * base level ↓
+         * gradient ↑
+         * stream energy ↑
+         * downcutting ↑
+         * knickpoint may migrate upstream
+Sea-level rise
+         * base level ↑
+         * gradient ↓
+         * velocity/erosive power ↓
+         * deposition ↑
+         * channel aggradation
+iii. Erosional features
+Knickpoint  
+         * abrupt break in longitudinal profile
+         * steep section
+         * waterfall possible
+         * rapids possible
+         * caused by:
+         * resistant rock
+         * faulting
+         * uplift
+         * base-level change
+         * lake drainage
+         * dam removal
+         * knickpoint migration → commonly upstream
+Waterfall  
+         * water flowing over abrupt elevation drop
+         * hard rock over softer rock
+         * softer rock erodes faster
+         * undercutting
+         * hard caprock becomes unsupported
+         * collapse
+         * waterfall retreats upstream
+         * example → Niagara Falls
+         * Niagara → differential erosion + resistant dolostone over softer shale/limestone
+V-shaped valley
+         * strong vertical erosion
+         * downcutting
+         * steep valley walls
+         * upper-course streams
+         * high relief
+         * example → Rocky Mountain headwaters
+iv. Erosional processes
+Hydraulic action
+         * direct force of moving water
+         * pressure on cracks
+         * air/water forced into fractures
+         * rock weakening/removal
+Abrasion
+         * sediment carried by stream
+         * impacts/ scrapes channel bed + banks
+         * potholes
+         * channel widening/deepening
+Downcutting
+         * vertical erosion
+         * channel deepening
+         * strong upstream
+         * V-shaped valleys
+Lateral erosion
+         * sideways erosion
+         * common meandering rivers
+         * floodplain widening
+Stream capture
+         * one stream captures drainage from another basin
+         * headward erosion
+         * drainage divide migration
+         * piracy
+         * captured stream → diverted into neighboring basin
+         * features:
+         * elbow of capture
+         * wind gap
+         * beheaded stream
+         * example → Appalachian drainage rearrangement  
+Meandering erosion
+            * outer bend → high velocity
+            * cut bank
+            * erosion
+            * inner bend → lower velocity
+            * point-bar deposition
+v. Channel and floodplain landforms
+Floodplain  
+            * flat valley floor
+            * periodic flooding
+            * lateral migration
+            * flood deposition
+            * fertile soils
+            * example → Mississippi floodplain
+
+
+Natural levee
+            * raised ridge along channel  
+            * flood overtopping
+            * velocity decreases rapidly outside channel
+            * coarse sediment deposited nearest bank
+            * finer sediment farther away
+            * repeated floods → levee buildup
+
+
+
+
+
+
+
+
+Point bar
+               * inner meander bend
+               * deposition
+               * lower velocity
+               * sediment accretion
+Cut bank
+               * outer meander bend
+               * high velocity
+               * erosion
+               * steep bank
+Neck
+               * narrow land between meander limbs
+Cutoff
+               * erosion through meander neck
+               * shorter straight channel develops
+               * old bend abandoned
+Oxbow lake
+               * abandoned meander loop
+               * cutoff → isolated water body
+               * gradually fills with sediment/vegetation
+               * example → oxbow lakes along Mississippi River
+Delta  
+               * sediment accumulation at river mouth
+               * river enters standing water
+               * velocity decreases
+               * sediment deposition
+               * coarse material closer to mouth
+               * finer material farther offshore
+Delta types
+               * constructional:
+               * river-dominated
+               * bird-foot / elongate
+               * lobate
+               * destructional:
+               * wave-dominated
+               * tide-dominated
+               * Cuspate
+               * Examples
+               * Mississippi Delta → bird-foot / river-dominated characteristics
+               * Nile Delta → arcuate
+               * wave-dominated deltas → smoother shoreline
+  Alluvial fan
+               * fan-shaped sediment deposit
+               * steep mountain channel → flat basin
+               * abrupt gradient decrease
+               * flow spreads
+               * deposition
+               * coarse sediment near apex
+               * finer sediment outward
+               * example → Death Valley / Mojave Desert alluvial fans
+f. Streamflow and floods
+i. Flow regimes
+Perennial
+               * year-round flow
+               * sustained water input
+               * groundwater contribution often important
+               * humid regions common
+Intermittent
+               * seasonal flow
+               * flow during wet season
+               * dry during part of year
+Ephemeral
+               * event-based flow
+               * precipitation-dependent
+               * dry channel between storms
+               * arid regions
+ii. Discharge, velocity, and load
+Discharge
+               * volumetric flow rate
+               * volume/time
+               * Q = A × V
+               * Q → discharge
+               * A → cross-sectional area
+               * V → mean velocity
+  
+
+Cross-sectional area
+               * rectangular approximation:
+               * A = width × depth
+               * natural channel → irregular cross-section
+               * multiple depth measurements → divided-area method
+Velocity
+               * distance/time
+               * m/s
+               * average velocity → not necessarily surface velocity
+               * channel roughness + depth + slope → velocity controls
+Water load vs. sediment load
+               * water discharge → volume/time
+               * sediment load → sediment transported/time
+               * sediment:
+               * bed load
+               * suspended load
+               * dissolved load
+iii. Mathematical relationships describing open-channel flow
+Manning equation
+V = (1/n) R^(2/3) S^(1/2)
+               * V → mean velocity
+               * n → Manning roughness coefficient
+               * R → hydraulic radius
+               * S → channel slope / energy gradient
+Discharge from Manning
+Q = AV
+therefore:
+Q = (1/n) A R^(2/3) S^(1/2)
+Hydraulic radius
+R = A / P
+               * A → cross-sectional flow area
+               * P → wetted perimeter
+Wetted perimeter
+               * length of channel boundary in contact with water
+               * excludes water surface
+Wide-channel approximation
+               * hydraulic radius ≈ depth
+               * useful when width >> depth
+Roughness coefficient
+               * n ↑ → friction ↑
+               * n ↑ → velocity ↓
+               * n ↓ → smoother channel
+               * n ↓ → velocity ↑
+High roughness examples
+               * boulders
+               * vegetation
+               * irregular bed
+               * woody debris
+Low roughness examples
+               * smooth concrete
+               * engineered channels
+Chézy equation
+V = C√(RS)
+               * V → mean velocity
+               * C → Chézy coefficient
+               * R → hydraulic radius
+               * S → slope
+Hydraulic relationships
+               * gradient ↑ → velocity ↑
+               * hydraulic radius ↑ → friction relative to flow area ↓
+               * roughness ↑ → velocity ↓
+               * discharge ↑ → channel transport capacity ↑
+iv. Floods, flood frequency, and recurrence intervals
+Flood
+               * discharge exceeds channel capacity
+               * water spreads onto normally dry land
+               * floodplain inundation
+Flood causes
+               * intense rainfall
+               * prolonged rainfall
+               * snowmelt
+               * rain-on-snow
+               * ice jams
+               * dam failure
+               * saturated soils
+               * urban runoff
+               * impermeable surfaces
+Flood frequency
+               * frequency → how often a flood magnitude is statistically expected
+               * recurrence interval / return period → average interval between events of specified magnitude
+Recurrence interval
+T = 1 / P
+               * T → recurrence interval
+               * P → annual exceedance probability
+Examples
+               * 100-year flood:
+               * T = 100 years
+               * annual exceedance probability = 1/100 = 0.01 = 1%
+               * 50-year flood → 2%
+               * 10-year flood → 10%
+Important probability concept
+               * 100-year flood ≠ once every 100 years
+               * independent annual probabilities
+               * multiple 100-year floods possible in same decade
+               * no guarantee of one occurrence within 100 years
+  
+
+Probability over multiple years
+P(at least one event in t years) = 1 − (1 − 1/T)^t
+               * example → 100-year flood over 30 years:
+               * 1 − (0.99)^30
+               * ≈ 26%
+               * example → 100-year flood over 100 years:
+               * 1 − (0.99)^100
+               * ≈ 63%
+               * long-term probability ≠ schedule
+g. Groundwater and karst
+  
+
+i. Subsurface zones
+Groundwater
+               * water beneath Earth's surface
+               * pore spaces
+               * fractures
+               * soil
+               * sediment
+               * rock
+Zone of aeration / vadose zone
+               * above water table
+               * pore spaces → air + water
+               * partially saturated
+Capillary fringe
+               * immediately above water table
+               * water pulled upward by capillary forces
+               * pore spaces nearly saturated
+Zone of saturation / phreatic zone
+               * below water table
+               * pores completely filled with water
+Water table
+               * top of saturated zone
+               * boundary between:
+               * vadose zone
+               * saturated zone
+Springs
+               * water table intersects land surface
+               * groundwater discharges naturally
+ii. Aquifers and their properties
+Aquifer
+               * permeable subsurface unit
+               * stores groundwater
+               * transmits groundwater
+               * sand
+               * gravel
+               * fractured rock
+               * cavernous limestone
+Porosity
+               * percentage of void space
+               * Porosity = void volume / total volume × 100%
+               * high porosity → more storage potential
+Permeability
+               * ability of material to transmit fluid
+               * connected pore spaces
+               * fractures
+               * high permeability → rapid groundwater movement
+  
+
+Porosity vs. permeability
+               * clay → high porosity, low permeability
+               * gravel → high porosity + high permeability
+               * granite → low primary porosity/permeability unless fractured
+Aquitard
+               * stores/transmits water slowly
+               * sandy clay
+               * shale
+Aquiclude
+               * can store water
+               * extremely low transmission
+               * clay
+Aquifuge
+               * neither significant storage nor transmission
+               * unfractured crystalline rock
+               * example → massive unfractured granite
+Unconfined aquifer
+               * no impermeable layer above
+               * water table exposed to atmospheric pressure
+               * direct recharge from surface
+               * vulnerable to contamination
+               * common shallow groundwater source
+Confined aquifer
+               * aquifer bounded by low-permeability layers
+               * pressure > atmospheric
+               * recharge area potentially distant
+               * groundwater under pressure
+Artesian aquifer
+               * confined aquifer
+               * hydraulic pressure causes water level in well to rise above aquifer top
+               * flowing artesian well → water reaches land surface naturally
+               * tilted geologic layers
+               * recharge area at higher elevation
+               * example → Great Artesian Basin, Australia
+iii. Hydraulic gradient and groundwater flow
+Hydraulic head
+               * energy/pressure potential of groundwater
+               * elevation head + pressure head
+Hydraulic gradient
+I = Δh / d
+               * I → hydraulic gradient
+               * Δh → difference in hydraulic head
+               * d → distance
+               * steep hydraulic gradient → faster groundwater flow
+               * groundwater → generally high head → low head
+  
+
+Groundwater flow direction
+               * perpendicular to equipotential contours
+               * from high hydraulic head → low hydraulic head
+               * not necessarily from high elevation → low elevation if pressure differs
+Darcy's law
+Q = KIA
+               * Q → groundwater discharge
+               * K → hydraulic conductivity
+               * I → hydraulic gradient
+               * A → cross-sectional area
+  
+
+Groundwater velocity
+V = KI / n
+               * K → hydraulic conductivity
+               * I → hydraulic gradient
+               * n → porosity
+               * actual pore-water velocity > Darcy flux
+Permeability / conductivity
+               * K high → water moves easily
+               * K low → slow movement
+Viscosity
+               * resistance to flow
+               * water → low viscosity
+               * olive oil → medium
+               * honey → high
+               * higher viscosity → lower flow for same driving force
+Pressure difference
+               * Δpressure ↑ → driving force ↑
+               * hydraulic gradient ↑ → flow ↑
+iv. Recharge, discharge, and capillarity
+Recharge
+               * water entering groundwater system
+               * precipitation
+               * snowmelt
+               * infiltration
+               * leaking streams/lakes
+               * irrigation
+Discharge
+               * groundwater leaving aquifer
+               * springs
+               * streams
+               * wetlands
+               * lakes
+               * ocean
+               * wells
+               * evapotranspiration
+Baseflow
+               * groundwater contribution to streamflow
+               * sustains streams during dry periods
+               * perennial streams → often substantial groundwater contribution
+Capillarity
+               * water movement through small pores against gravity
+               * adhesion + cohesion
+               * strongest in fine materials
+               * clay → strong capillary rise
+               * sand → lower capillary rise, faster permeability
+v. Surface-water/groundwater interactions + saltwater intrusion
+  
+
+Gaining stream
+               * groundwater → stream
+               * water table intersects channel
+               * groundwater discharge
+               * common source of baseflow
+Losing stream
+               * stream → groundwater
+               * infiltration from channel
+               * aquifer recharge  
+
+
+Saltwater intrusion
+                  * coastal aquifer
+                  * freshwater groundwater normally pushes toward ocean
+                  * excessive pumping → freshwater head decreases
+                  * saltwater moves inland
+                  * contamination of wells
+                  * especially severe in coastal cities
+                  * example → Florida coastal aquifers
+Causes
+                  * groundwater over-pumping
+                  * drought
+                  * reduced recharge
+                  * sea-level rise
+Effects
+                  * drinking-water contamination
+                  * irrigation problems
+                  * soil salinization
+                  * reduced freshwater availability
+vi. Karst processes, hydrology, landforms, and features
+Carbonate rocks
+                  * carbonate mineral content
+                  * limestone
+                  * dolomite
+                  * marble
+                  * carbonate → CO₃²⁻
+Carbonic acid
+                  * CO₂ + H₂O → H₂CO₃
+                  * weak acid
+                  * dissolves carbonate rock
+  
+
+Karst
+                  * landscape produced by dissolution of soluble bedrock
+                  * limestone/dolomite/marble
+                  * underground drainage
+                  * caves
+                  * sinkholes
+                  * disappearing streams
+                  * springs
+                  * solution valleys
+  
+
+Sinkholes
+                  * surface depressions
+                  * dissolution
+                  * collapse
+                  * subsidence
+                  * funnel-shaped/common forms
+                  * possible dimensions → feet to >100 ft depth
+                  * cenote → sinkhole containing water
+                  * example → Florida sinkhole landscapes
+Solution valleys / karst valleys
+                  * former surface stream valleys
+                  * drainage diverted underground
+                  * dissolution
+                  * sinkhole chains
+                  * example → karst valleys in Kentucky
+Disappearing streams
+                  * surface stream enters:
+                  * sinkhole
+                  * cave
+                  * fracture
+                  * water flows underground
+                  * sinking stream
+                  * example → karst regions of Kentucky
+Springs
+                  * groundwater returns to surface
+                  * cave spring
+                  * karst spring
+                  * high discharge possible
+                  * can vary seasonally
+                  * drought → spring discharge decrease
+Caves
+                  * underground openings
+                  * dissolution along fractures/bedding planes
+                  * continued groundwater flow → cave enlargement
+Stalactites vs. stalagmites
+                  * stalactite → hangs from ceiling
+                  * stalagmite → grows from floor
+                  * mineral precipitation from groundwater
+                  * mnemonic → stalactite = ceiling, stalagmite = ground
+h. Lakes and wetlands
+i. Lake formation and types
+Lake requirements
+                  * natural basin
+                  * restricted outlet
+                  * sufficient water input
+                  * partial/permanent filling
+Tectonic lakes
+Faulting
+                  * crustal movement
+                  * depression
+                  * water accumulation
+Tilting
+                  * crustal deformation
+                  * basin formation
+Folding
+                  * rock layers bend
+                  * depression/syncline → possible basin
+Rifting
+                  * crust pulled apart
+                  * elongated depression
+                  * chain of lakes
+                  * East African Rift
+                  * Lake Tanganyika
+                  * Lake Malawi
+                  * Lake Baikal → rift lake
+Volcanic lakes
+                  * crater
+                  * caldera
+                  * volcanic depression
+                  * precipitation/groundwater → fills basin
+                  * example → Crater Lake, Oregon
+Glacial lakes
+                  * glacial erosion
+                  * bedrock basin
+                  * moraine/dam deposition
+                  * ice retreat → water fills depression
+                  * Great Lakes
+                  * Finger Lakes, New York
+Fluvial damming
+                  * sediment accumulation blocks channel
+                  * landslide/debris dam
+                  * beaver dam
+                  * river blockage
+                  * lake forms upstream
+Sinkhole lakes
+                  * carbonate dissolution
+                  * collapse
+                  * depression fills with water
+                  * example → Florida lakes
+Lakes + glaciation
+                  * many lakes concentrated in recently glaciated regions
+                  * glacial erosion
+                  * deposition
+                  * drainage disruption
+                  * innumerable basins
+  
+
+ii. Lake water budgets
+Inputs
+                  * precipitation directly onto lake
+                  * surface inflow
+                  * tributaries
+                  * groundwater inflow
+                  * springs
+                  * seeps
+Outputs
+                  * evaporation
+                  * surface outflow
+                  * groundwater seepage
+                  * human withdrawals
+  
+
+Equation
+ΔStorage = P + Qin + Gin − E − Qout − Gout
+Closed-basin lakes
+                  * no natural surface outlet
+                  * evaporation dominates
+                  * dissolved salts accumulate
+                  * saline lake
+                  * example → Great Salt Lake
+Lake water balance
+                  * inflow > outflow → lake level ↑
+                  * outflow > inflow → lake level ↓
+                  * long-term balance → approximately stable lake level
+iii. Physical + chemical properties and stratification
+Temperature
+                  * water temperature → controls density
+                  * freshwater maximum density ≈ 4°C
+                  * warm water → less dense
+                  * cold water below 4°C → less dense than 4°C water
+Stratification
+                  * density layering
+                  * temperature primary control in freshwater
+                  * salinity also affects density
+Epilimnion
+                  * upper layer
+                  * warm
+                  * well mixed
+                  * lower density
+Metalimnion
+                  * transition zone
+                  * rapid temperature change
+                  * thermocline
+Thermocline
+                  * zone of rapid temperature decrease with depth
+Hypolimnion
+                  * deep layer
+                  * cold
+                  * dense
+                  * often ≈4°C in temperate lakes during summer
+Pycnocline
+                  * rapid density change
+  
+
+Seasonal turnover
+                  * mixing caused by density changes
+                  * transports:
+                  * oxygen downward
+                  * nutrients upward
+Dimictic lakes
+                  * 2 turnovers/year
+                  * spring
+                  * fall
+                  * common midlatitudes
+                  * summer stratification
+                  * winter inverse stratification
+Spring turnover
+                  * ice melts
+                  * surface warms toward 4°C
+                  * density increases
+                  * whole lake mixing
+                  * oxygen redistribution
+                  * nutrients redistributed
+Summer stratification
+                  * warm epilimnion
+                  * thermocline
+                  * cold hypolimnion
+Fall turnover
+                  * surface cooling
+                  * density ↑
+                  * surface water sinks
+                  * lake mixes
+Winter inverse stratification
+                  * ice at surface
+                  * water near 0°C
+                  * deeper water near 4°C
+                  * density maximum near bottom
+Monomictic
+Cold monomictic
+                  * one turnover/year
+                  * never exceeds 4°C
+                  * ice-covered winter
+                  * mixing during summer
+                  * polar/high-latitude regions
+Warm monomictic
+                  * one turnover/year
+                  * never falls below 4°C
+                  * mixing during winter
+                  * tropical/temperate warm regions
+Polymictic
+                  * many mixing events/year
+                  * weak/absent persistent stratification
+                  * shallow lakes
+                  * tropical regions common
+Oligomictic
+                  * less than once/year
+                  * irregular mixing
+                  * weak stratification
+                  * warm tropical deep lakes
+                  * Uncommon
+  
+
+Mixing importance
+                  * oxygen transport → deep water
+                  * nutrient transport → surface
+                  * phytoplankton productivity
+                  * benthic organism survival
+                  * ecosystem health
+  
+
+Dissolved oxygen
+                  * DO → oxygen dissolved in water
+                  * units → mg/L or ppm
+                  * high DO → generally healthier aerobic aquatic conditions
+                  * low DO → stress/fish kills
+DO controls
+                  * temperature ↓ → DO solubility ↑
+                  * pressure ↑ → DO ↑
+                  * salinity ↑ → DO ↓
+                  * solids/turbidity ↑ → can reduce oxygen availability
+                  * atmospheric diffusion
+                  * aeration
+                  * waves
+                  * turbulence
+                  * flowing water
+                  * photosynthesis
+Biochemical oxygen demand
+                  * BOD → oxygen required by microbes to decompose organic matter
+                  * high BOD → DO depletion
+                  * low BOD → less oxygen demand
+                  * sequence:
+                  1. organic waste enters water
+                  2. microbes decompose material
+                  3. microbes consume DO
+                  4. DO ↓
+                  5. aquatic organisms stressed
+                  6. severe oxygen depletion → fish kills
+pH
+                  * pH → hydrogen-ion activity/concentration measure
+                  * 0–14 scale
+                  * logarithmic
+                  * pH ↓ → acidity ↑
+                  * pH ↑ → basicity/alkalinity ↑
+                  * 1 pH unit → 10× difference in hydrogen-ion concentration
+Alkalinity
+                  * acid-neutralizing / buffering capacity
+                  * resistance to pH change
+                  * carbonate
+                  * bicarbonate
+                  * hydroxide
+                  * high alkalinity → greater resistance to acidification
+Turbidity
+                  * water cloudiness
+                  * suspended particles
+                  * sediment
+                  * algae
+                  * microorganisms
+                  * runoff
+Turbidity effects
+                  * light penetration ↓
+                  * photosynthesis ↓
+                  * water temperature potentially ↑
+                  * gill irritation
+                  * aquatic habitat degradation
+                  * sediment transport ↑
+                  * pollutant transport possible
+Turbidity sources
+                  * snowmelt/runoff
+                  * storms
+                  * lake turnover
+                  * benthic disturbance
+                  * urban runoff
+                  * erosion
+                  * construction
+                  * gasoline/oil contamination
+Trophic state
+Oligotrophic
+                  * low nutrients
+                  * low algae
+                  * clear water
+                  * high DO
+                  * often deep
+                  * generally low productivity
+Mesotrophic
+                  * intermediate nutrient levels
+                  * intermediate productivity
+Eutrophic
+                  * high nutrients
+                  * high algae
+                  * reduced clarity
+                  * high productivity
+                  * decomposition → oxygen depletion
+                  * nitrate/phosphate enrichment
+                  * fertilizer/septic runoff
+Lake longevity
+                  * generally temporary on geologic timescales
+                  * inflowing sediment → basin filling
+                  * outflow → channel incision/drainage
+                  * vegetation growth → infilling
+                  * eutrophication → accelerated ecological succession
+Lakes + climate
+                  * water warms/cools slowly
+                  * lake surroundings → reduced temperature extremes
+                  * humidity ↑ near lakes
+                  * lake-effect precipitation
+iv. Shoreline processes
+Waves
+                  * energy transport
+                  * water molecules → orbital motion
+                  * net water transport ≈ minimal for ideal waves
+                  * disturbing force → usually wind
+                  * restoring force → usually gravity
+Wave types by depth
+                  * deep-water wave:
+                  * depth > 1/2 wavelength
+                  * little/no bottom interaction
+                  * transitional wave:
+                  * depth between 1/2 and 1/20 wavelength
+                  * partial bottom interaction
+                  * shallow-water wave:
+                  * depth < 1/20 wavelength
+                  * strong bottom interaction
+Capillary waves
+                  * wavelength <≈1.7 cm
+                  * small wind disturbance
+                  * surface tension → restoring force
+Wind waves
+                  * wind-generated
+                  * factors:
+                  * wind speed
+                  * wind duration
+                  * fetch
+Fetch
+                  * uninterrupted distance wind blows across water
+                  * fetch ↑ → wave growth ↑
+  
+
+Shoaling
+                  * wave enters shallow water
+                  * bottom friction ↑
+                  * wave velocity ↓
+                  * wavelength ↓
+                  * wave height ↑
+                  * wave steepness ↑
+                  * breaking eventually
+Shoreline erosion
+                  * wave energy concentrated on coast
+                  * abrasion
+                  * hydraulic action
+                  * sediment transport
+                  * beach erosion
+                  * cliffs
+                  * wave-cut platforms
+v. Wetland types, formation, and hydrology
+Wetland
+                  * saturated/flooded ground
+                  * permanent or seasonal
+                  * freshwater/brackish/saltwater
+                  * unique ecological communities
+                  * flood storage
+                  * nutrient removal
+                  * groundwater interactions
+  
+
+Formation
+                  * flat/enclosed basin
+                  * flooding
+                  * high water table
+                  * groundwater discharge
+                  * coastal inundation
+                  * glacial depressions
+                  * river floodplains
+  
+
+  
+
+Marsh
+                  * herbaceous vegetation
+                  * grasses
+                  * reeds
+                  * cattails
+                  * sedges
+                  * surface water common
+                  * groundwater contribution possible
+                  * nutrient-rich
+                  * flood attenuation
+                  * nutrient removal
+Swamp
+                  * woody vegetation
+                  * trees/shrubs
+                  * saturated soils
+                  * forested/shrub swamp
+                  * high productivity
+                  * biodiversity
+                  * flood protection
+                  * nutrient removal
+Bog
+                  * precipitation-dominated
+                  * sphagnum moss
+                  * peat
+                  * acidic
+                  * nutrient-poor
+                  * spongy
+                  * waterlogged
+                  * terrestrialization:
+                  * lake/pond
+                  * sphagnum growth
+                  * peat accumulation
+                  * gradual infilling
+                  * paludification:
+                  * moss blankets land
+                  * drainage restricted
+                  * water accumulates
+Fen
+                  * groundwater/surface-water dominated
+                  * mineral-rich
+                  * peat-forming
+                  * less acidic than bog
+                  * more nutrients than bog
+                  * grasses
+                  * sedges
+                  * rushes
+                  * wildflowers
+                  * patterned fens → vegetation ridges perpendicular to water movement
+                  * peat accumulation → groundwater connection weakened
+                  * fen → potentially bog
+i. Geologic and paleohydrologic record
+i. Sedimentary structures as indicators of water and flow conditions
+Paleohydrology
+                  * reconstruction of ancient water systems
+                  * preserved landforms
+                  * sedimentary structures
+                  * past:
+                  * water presence
+                  * flow direction
+                  * flow energy
+                  * water depth
+                  * wet/dry conditions
+                  * depositional environment
+Ripple marks
+  
+
+                  * preserved sediment ripples
+                  * current ripples → asymmetric
+                  * flow direction → lee side direction
+                  * wave ripples → more symmetrical
+                  * ancient water/wave evidence
+Raindrop imprints
+  
+
+                  * small depressions
+                  * rainfall impact
+                  * exposed wet sediment
+                  * ancient precipitation evidence
+Mud cracks
+  
+
+                  * wet mud → drying
+                  * shrinkage
+                  * polygonal cracks
+                  * alternating wet/dry conditions
+                  * arid/semiarid depositional environment
+Cross-bedding
+  
+
+                  * inclined sediment layers
+                  * dunes/ripples
+                  * migrating bedforms
+                  * flow/wind direction reconstruction
+                  * lee-side deposition
+                  * top truncation → erosion/abrupt deposition interruption
+                  * tangential lower boundaries → gradual deposition
+Graded bedding
+  
+
+                  * vertical grain-size change
+                  * coarse → fine upward
+                  * waning flow
+                  * turbidity currents/flood deposits
+                  * sorting through depositional event
+Sedimentary interpretation
+                  * cross-bedding → current direction
+                  * ripple marks → water/wind movement
+                  * mud cracks → drying
+                  * raindrop imprints → precipitation
+                  * graded bedding → waning flow
+ii. Paleochannels and preserved fluvial/lacustrine deposits
+Paleochannel
+  
+
+                  * abandoned/ancient river channel
+                  * buried/preserved in sediment
+                  * channel geometry
+                  * ancient flow path
+                  * sedimentary evidence
+Preserved fluvial deposits
+                  * point-bar deposits
+                  * channel fills
+                  * gravel beds
+                  * cross-bedding
+                  * floodplain muds
+                  * ancient terraces
+Preserved lacustrine deposits
+                  * lake sediments
+                  * fine laminations
+                  * shoreline deposits
+                  * deltaic sediments
+                  * evaporites
+                  * fossil evidence
+                  * lake-level history
+Paleohydrologic reconstruction
+                  * sediment grain size
+                  * sediment structures
+                  * channel geometry
+                  * terrace elevation
+                  * delta deposits
+                  * evaporites
+                  * fossil organisms
+                  * → ancient water conditions
+j. Human impacts and water quality
+i. Effects of land-use change on freshwater systems
+Urbanization
+                  * impervious surfaces ↑
+                  * infiltration ↓
+                  * runoff ↑
+                  * flash flooding ↑
+                  * groundwater recharge ↓
+                  * channel erosion ↑
+                  * pollutants transported rapidly
+Agriculture
+                  * fertilizer runoff
+                  * nitrate
+                  * phosphate
+                  * pesticide runoff
+                  * soil erosion
+                  * sedimentation
+                  * irrigation withdrawals
+Deforestation
+                  * vegetation interception ↓
+                  * root stabilization ↓
+                  * runoff ↑
+                  * erosion ↑
+                  * sediment supply ↑
+Sedimentation
+                  * excess sediment enters water
+                  * turbidity ↑
+                  * habitat smothering
+                  * reservoir capacity ↓
+                  * channel morphology changes
+Ecological change
+                  * habitat loss
+                  * temperature changes
+                  * nutrient enrichment
+                  * invasive species
+                  * altered flow regime
+ii. Engineering structures, water extraction, and effects
+Dams
+  
+
+                  * block river
+                  * reservoir formation
+                  * flood control
+                  * hydropower
+                  * water storage
+                  * sediment trapping
+                  * downstream sediment starvation
+                  * altered temperature
+                  * altered fish migration
+                  * altered flow regime
+Levees
+                  * raised banks
+                  * floodwater confinement
+                  * floodplain connection ↓
+                  * flood protection locally
+                  * increased downstream flood risk possible
+                  * sediment deposition shifted
+Channelization
+                  * straightening
+                  * deepening
+                  * widening
+                  * engineered banks
+                  * flow velocity potentially ↑
+                  * habitat complexity ↓
+                  * floodplain connection ↓
+                  * erosion downstream possible
+Diversion
+                  * river water redirected
+                  * irrigation
+                  * municipal supply
+                  * industrial use
+                  * reduced downstream discharge
+                  * ecosystem effects
+Downcutting
+                  * channel bed elevation ↓
+                  * groundwater table potentially lowered
+                  * banks destabilized
+                  * habitat changes
+Wells
+  
+
+                  * groundwater extraction
+                  * drinking water
+                  * irrigation
+                  * industrial use
+Aquifer depletion
+                  * pumping > recharge
+                  * groundwater storage ↓
+                  * water table ↓
+                  * wells dry
+                  * stream baseflow ↓
+                  * springs ↓
+Land subsidence
+                  * groundwater withdrawal
+                  * pore-water pressure ↓
+                  * sediment compaction
+                  * land surface elevation ↓
+                  * flooding risk ↑
+                  * infrastructure damage
+                  * example → Jakarta, Indonesia
+Human water demand
+                  * agriculture → major groundwater use
+                  * Great Plains / Ogallala aquifer → irrigation
+                  * groundwater recharge → much slower than pumping in some regions
+iii. Water pollution
+Point-source pollution
+                  * identifiable source
+                  * factory discharge pipe
+                  * sewage outfall
+                  * leaking oil tanker
+                  * wastewater treatment plant
+Nonpoint-source pollution
+                  * diffuse sources
+                  * agricultural runoff
+                  * urban stormwater
+                  * atmospheric deposition
+                  * no single identifiable discharge point
+Pollutant transport
+                  * runoff
+                  * groundwater flow
+                  * streamflow
+                  * sediment attachment
+                  * atmospheric deposition
+Nutrient pollution
+                  * nitrogen
+                  * phosphorus
+                  * fertilizer
+                  * sewage
+                  * manure
+                  * algal growth ↑
+Eutrophication
+                  * nutrient enrichment
+                  * algae/cyanobacteria growth ↑
+                  * water clarity ↓
+                  * algae die
+                  * microbial decomposition ↑
+                  * BOD ↑
+                  * DO ↓
+                  * hypoxia/anoxia
+                  * fish kills
+Bioaccumulation
+                  * toxin concentration builds within individual organism
+                  * exposure over time
+                  * example → mercury in fish
+Biomagnification
+                  * toxin concentration ↑ at higher trophic levels
+                  * predator consumes many contaminated organisms
+                  * highest concentrations → top predators
+                  * example → mercury → large predatory fish → humans
+Water-quality indicators
+                  * pH
+                  * temperature
+                  * DO
+                  * BOD
+                  * turbidity
+                  * nutrients
+                  * salinity
+                  * contaminants
+k. Measuring and monitoring freshwater
+i. Interpreting freshwater features on topographic maps
+Topographic maps
+                  * contour lines → equal elevation
+                  * closely spaced contours → steep slope
+                  * widely spaced contours → gentle slope
+Rivers
+                  * contour lines form V shapes across streams
+                  * V points upstream
+                  * stream flows opposite direction of V point
+                  * contour elevations → determine flow direction
+                  * tributaries → join downstream
+                  * drainage divide → high elevation boundary
+Valley identification
+                  * V-shaped contours → stream valley
+                  * V point → upstream
+                  * broad contours → floodplain
+                  * steep contour spacing → steep valley
+                  * gentle contour spacing → low gradient
+Watershed identification
+                  * trace ridgelines/high ground
+                  * identify drainage divide
+                  * all water inside divide → common outlet
+ii. Mapping water table from well data
+Well data
+                  * measure:
+                  * land-surface elevation
+                  * depth to groundwater
+                  * calculate hydraulic head
+Hydraulic head
+h = elevation of water surface
+                  * water table elevation = land elevation − depth to water
+Example
+                  * land elevation = 300 m
+                  * water depth = 40 m
+                  * water table elevation = 260 m
+Water-table contour map
+                  * connect points of equal hydraulic head
+                  * equipotential contours
+                  * groundwater flows:
+                  * high head → low head
+                  * approximately perpendicular to contours
+Flow lines
+                  * arrows showing groundwater movement
+                  * perpendicular to equipotential contours
+                  * follow hydraulic gradient
+Groundwater divides
+                  * elevated groundwater table
+                  * separates groundwater flow directions
+iii. Stream gauging, discharge measurement, and hydrographs
+Stream gauging
+                  * measurement of:
+                  * stream stage
+                  * velocity
+                  * Discharge
+                  *   Stage
+                     * water-surface elevation relative to gauge datum
+                     * not the same as discharge
+Stage-discharge relationship
+                     * discharge measured at different stages
+                     * rating curve developed
+                     * stage → estimated discharge
+Direct discharge measurement
+Q = AV
+                     * channel divided into sections
+                     * measure depth + width
+                     * measure velocity
+                     * calculate each subsection
+                     * sum subsection discharges
+Hydrograph
+  
+
+                     * discharge vs. time
+                     * precipitation/runoff response
+                     * streamflow variability
+Baseflow
+                     * groundwater-derived component
+                     * slower response
+                     * sustains dry-weather flow
+Stormflow
+                     * rainfall/snowmelt-derived rapid response
+                     * runoff
+                     * rapid discharge increase
+Rising limb
+                     * discharge increasing
+                     * runoff entering channel
+                     * precipitation event
+Peak discharge
+                     * maximum discharge
+                     * flood risk indicator
+Falling limb
+                     * discharge decreasing
+                     * runoff contribution declines
+                     * return toward baseflow
+Lag time
+                     * time between precipitation peak and discharge peak
+                     * watershed response time
+                     * short lag:
+                     * steep basin
+                     * impermeable surfaces
+                     * urbanization
+                     * intense rainfall
+                     * long lag:
+                     * permeable soil
+                     * vegetation
+                     * wetlands
+                     * large storage
+                     * gentle slopes
+Hydrograph interpretation
+                     * high peak + short lag → flashy watershed
+                     * lower peak + long lag → greater storage/infiltration
+                     * multiple peaks → multiple precipitation events
+                     * prolonged elevated baseflow → groundwater contribution
+iv. Monitoring networks and techniques
+Groundwater observation wells
+                     * repeated water-level measurements
+                     * water-table elevation
+                     * seasonal changes
+                     * drought effects
+                     * pumping effects
+                     * recharge/discharge patterns
+Tracer studies
+                     * dye
+                     * isotopes
+                     * dissolved chemicals
+                     * track water movement
+                     * determine groundwater flow paths
+                     * karst conduit tracing
+                     * example → fluorescent dye tracing disappearing stream → karst spring
+Remote sensing
+                       * satellite imagery
+                     * aerial photography
+                     * radar
+                     * LiDAR
+                     * multispectral sensors
+Freshwater applications
+                     * lake surface area
+                     * wetland extent
+                     * snowpack
+                     * flood extent
+                     * shoreline change
+                     * vegetation
+                     * turbidity
+                     * water temperature
+                     * drought monitoring
+Monitoring networks
+                     * stream gauges
+                     * precipitation gauges
+                     * groundwater wells
+                     * weather stations
+                     * water-quality sensors
+                     * satellite systems
+Continuous monitoring
+                     * stage
+                     * discharge
+                     * temperature
+                     * conductivity
+                     * turbidity
+                     * DO
+                     * pH
+Field measurements
+                     * flow meter
+                     * current meter
+                     * pressure transducer
+                     * staff gauge
+                     * well measurement
+                     * sediment sampling
+
+
+### River dynamics / sediment
+
+
+**River age + sediment load:** young river → high gradient + high stream power → more erosion + sediment transport; old/mature river → lower gradient + lower stream power → **less energy dedicated to sediment load** → more deposition
+
+
+**Braided streams:** rapid/frequent discharge variation + abundant **coarse sediment** + erodible banks → multiple shallow channels + mid-channel bars/islands; high sediment supply + variable discharge; hard bedrock banks / fine sediment → less favorable
+
+
+### Wetlands
+
+
+**Marsh formation:** floodplain flooding + tidal influence in lowland/coastal areas + sediment accumulation; **NOT** typically large rainstorm events in forested areas
+
+
+**Salinas:** human-modified wetland; **salt pans**; primarily **inland + arid environments** → evaporation → salt accumulation
+
+
+### Deltas
+
+
+**Birdfoot delta:** weak marine processes + heavy river discharge → long, narrow distributaries extending into water; high sediment supply; longshore currents can affect shape; gently curving coastlines = **NOT characteristic**
+
+
+**Bifurcation:** single channel → splits into 2+ channels → **distributaries**; common in deltas, braided + anastomosing streams; opposite of tributary
+
+
+**Bifurcation effects:** divides/redistributes flow → can limit flooding OR increase flooding depending on channel capacity/discharge; major distributor of **nutrients + mineral particulates/sediment**
+
+
+### Groundwater / caves
+
+
+**Air stripping:** water-treatment method → contaminated water + air → volatile contaminants transfer water → air; applicable to **petroleum byproducts**
+
+
+**Aerated caves:** cave forms while water table high → later **water-table lowering** → cave sections above water table → air-filled/aerated
+
+
+**Hydraulic conductivity (K):** ability of material to transmit water; **higher K → easier/faster water movement**; coarse gravel/sand → generally high K; clay → low K
+
+
+### Critical Zone
+
+
+**Critical Zone:** near-surface Earth system; interactions among **rock + soil + water + air + living organisms** → regulate life-sustaining resources; interconnected system
+
+
+### Water properties
+
+
+**Water:** H₂O → polar; **hydrogen bonding** between molecules; ice **less dense** than liquid water → floats; freshwater freezing point ~0°C; saltwater → lower freezing point
+
+
+### Lakes
+
+
+**Lake carbon:** lakes → generally **net CO₂ sources**; respiration + decomposition → CO₂ release; terrestrial organic carbon transported into lakes → processing + atmospheric CO₂ emission
+
+
+**Freshwater lake zones:**
+**Littoral** → shallow near-shore → light reaches bottom → rooted plants
+**Limnetic** → open, well-lit surface water
+**Profundal** → deep → little/no light
+**Benthic** → bottom/substrate
+**Benthos** → organisms living on/in bottom
+
+
+### Thermokarst
+
+
+**Thermokarst lakes:** permafrost thaw → ground ice melts → surface subsidence → depressions fill with water; climate warming/permafrost degradation; **terrain slumping + flooding + altered drainage/ecosystems**
+
+
+
+
+### Groundwater / aquifers
+
+
+**Water hardness:** mainly **Ca²⁺ + Mg²⁺** ions; groundwater through mineral-rich rocks → dissolves Ca/Mg → increased hardness
+
+
+**Aquitard:** low-permeability layer → restricts groundwater flow; effective aquitard → clay/shale; **not effective** → highly permeable material such as coarse gravel/sand
+
+
+**Unconfined aquifers — barrier islands + atolls:** water table open to atmospheric pressure; freshwater lens **floats above denser saltwater**; limited freshwater storage → vulnerable to saltwater intrusion/overpumping
+
+
+### Remediation
+
+
+**Ex-situ remediation:** contaminated material **removed/extracted from original location → treated elsewhere**; vs in-situ → treated in place
+
+
+**Bioventing:** **Biological** remediation; air/oxygen supplied to contaminated soil → stimulates microorganisms → biodegradation of petroleum hydrocarbons
+
+
+### Shoreline erosion
+
+
+**Terrestrial forces → shoreline erosion:** rivers/stream runoff + sediment transport; groundwater; mass wasting/landslides; weathering; **NOT marine-only processes** such as waves/tides
+
+
+### Stream development
+
+
+**Downcutting:** vertical erosion → streambed elevation decreases; **upgraded** → increased erosional capacity / actively cutting downward; **not graded** → graded stream = balance between erosion + deposition
+
+
+### Glacial floods
+
+
+**Jökulhlaup:** catastrophic glacial outburst flood; subglacial volcanic eruption/heat → rapid ice melting → glacial lake fills → dam breach → sudden drainage/flooding
+
+
+### Quick remediation classification
+
+
+**Biological:** bioventing, bioremediation → microorganisms
+**Physical:** excavation, air stripping
+**Chemical:** chemical oxidation/treatment
+**Thermal:** heating → volatilization/degradation
+**Containment only:** caps, barriers, impermeable walls
+**Ex-situ:** contaminated material removed → treatment elsewhere
+**In-situ:** treatment occurs **at contamination site**
